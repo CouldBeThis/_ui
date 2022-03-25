@@ -1,0 +1,18 @@
+[submodule "_xfce4themes"]
+	path = _xfce4themes
+	url = git@github.com:CouldBeThis/_xfce4themes
+[submodule "himbeere-markdown"]
+	path = himbeere-markdown
+	url = git@github.com:CouldBeThis/himbeere-markdown
+[submodule "CouldLook"]
+	path = CouldLook
+	url = git@github.com:CouldBeThis/CouldLook
+[submodule "kitty-conf"]
+	path = kitty-conf
+	url = git@github.com:CouldBeThis/kitty-conf
+[submodule "nanorc-syntax"]
+	path = nanorc-syntax
+	url = git@github.com:CouldBeThis/nanorc-syntax
+[submodule "linux-loginscreen"]
+	path = linux-loginscreen
+	url = git@github.com:CouldBeThis/linux-loginscreen
