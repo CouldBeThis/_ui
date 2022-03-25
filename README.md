@@ -8,6 +8,16 @@ git submodule update --init --recursive
 
 ``` 
 
+
+- [terminal.sexy - Terminal Color Scheme Designer](https://terminal.sexy/) (:octocat: [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy)- create and convert to and from many common formats in this web-app; has preview
+- [Terminal Colors | Chris Yeh](https://chrisyeh96.github.io/2020/03/28/terminal-colors.html) - some technical information about the way colors work in terminals
+- [thefryscorer/schemer2](https://github.com/thefryscorer/schemer2) - Terminal Colorscheme Generator and Converter
+- [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal only
+- [Gogh - Color Scheme](https://mayccoll.github.io/Gogh/) ( [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh)) - huge collection of schemes converted for use in various emulators
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - another large collection of schemes that have been converted to suit a variety of emulators
+- ⭐ [`theme.sh`](https://github.com/lemnos/theme.sh) - script that will change themes; cross platform and cross emulator so it is my personal favorite; comes bundled with lots of themes and can read various formats so it's easy to add new ones
+
+
 ## `xfce4`
 
 ## links (messy)
