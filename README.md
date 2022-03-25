@@ -42,6 +42,6 @@ git submodule update --init --recursive
 * [Search · kitty](https://github.com/lemnos/theme.sh/search?q=kitty&type=issues)
 * [Save and restore current theme · Issue #23 · lemnos/theme.sh](https://github.com/lemnos/theme.sh/issues/23)
 
-
+[4bit. Terminal Color Scheme Designer](https://ciembor.github.io/4bit/)
 
 
