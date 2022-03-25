@@ -16,3 +16,9 @@
 [submodule "linux-loginscreen"]
 	path = linux-loginscreen
 	url = git@github.com:CouldBeThis/linux-loginscreen
+[submodule "terminal2gimp-palette"]
+	path = terminal2gimp-palette
+	url = git@github.com:CouldBeThis/terminal2gimp-palette
+[submodule "nano-configs"]
+	path = nano-configs
+	url = git@github.com:CouldBeThis/nano-configs
