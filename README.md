@@ -42,6 +42,19 @@ git submodule update --init --recursive
 * [Search · kitty](https://github.com/lemnos/theme.sh/search?q=kitty&type=issues)
 * [Save and restore current theme · Issue #23 · lemnos/theme.sh](https://github.com/lemnos/theme.sh/issues/23)
 
-[4bit. Terminal Color Scheme Designer](https://ciembor.github.io/4bit/)
+* [4bit. Terminal Color Scheme Designer](https://ciembor.github.io/4bit/)
+
+* [Usage · andreyvpng/just-colors Wiki](https://github.com/andreyvpng/just-colors/wiki/Usage)
+* [harmonic16](https://janniks.github.io/harmonic16/)
+* [atelierbram/c-tiles16: Colorscheming with Variables](https://github.com/atelierbram/c-tiles16)
 
 
+## `xfce4` docs
+
+* [Desktop / Xfce Forums](https://forum.xfce.org/viewforum.php?id=4)
+* [How To Ask For Help / Say Hello / Xfce Forums](https://forum.xfce.org/viewtopic.php?id=9278)
+* [faq [Xfce Docs]](https://docs.xfce.org/faq#themes)
+* [XFCE/XFWM4 Themes - Eyecandy for your XFCE-Desktop - xfce-look.org](https://www.xfce-look.org/browse?cat=138&ord=latest)
+* [Search [Xfce Wiki]](https://wiki.xfce.org/start?do=search&id=howto%3Ainstall_new_themes&q=gtk+css)
+* [GNOME Shell Extensions](https://extensions.gnome.org/)
+* [howto:xfwm4_theme [Xfce Wiki]](https://wiki.xfce.org/howto/xfwm4_theme) - basics explains the different kinds and parts of a theme
