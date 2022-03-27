@@ -58,3 +58,7 @@ git submodule update --init --recursive
 * [Search [Xfce Wiki]](https://wiki.xfce.org/start?do=search&id=howto%3Ainstall_new_themes&q=gtk+css)
 * [GNOME Shell Extensions](https://extensions.gnome.org/)
 * [howto:xfwm4_theme [Xfce Wiki]](https://wiki.xfce.org/howto/xfwm4_theme) - basics explains the different kinds and parts of a theme
+
+### compiziting
+
+[software installation - How to correctly install Compiz on Xfce 4? - Ask Ubuntu](https://askubuntu.com/questions/702858/how-to-correctly-install-compiz-on-xfce-4)  - a straightforward tutorial about how to install `compiz`. Was original written in 2015 but has been updated til 2019. 
