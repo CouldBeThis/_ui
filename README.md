@@ -62,3 +62,5 @@ git submodule update --init --recursive
 ### compiziting
 
 [software installation - How to correctly install Compiz on Xfce 4? - Ask Ubuntu](https://askubuntu.com/questions/702858/how-to-correctly-install-compiz-on-xfce-4)  - a straightforward tutorial about how to install `compiz`. Was original written in 2015 but has been updated til 2019. 
+
+[jEsuSdA/the-perfect-desktop: Some configuration files and tools to get the Perfect Linux Desktop](https://github.com/jEsuSdA/the-perfect-desktop) - it actually does look pretty useful. fonts, sounds, compositing. 
